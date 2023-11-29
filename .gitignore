@@ -2,3 +2,6 @@
 doc/_site/
 *.tgz
 extract/
+
+flutter_sound_web/.idea
+flutter_sound_platform_interface/.idea
